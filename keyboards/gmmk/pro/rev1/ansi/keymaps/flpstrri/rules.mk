@@ -1,0 +1,3 @@
+CAPS_WORD_ENABLE = yes
+DEBOUNCE_TYPE = sym_defer_pk
+ENCODER_MAP_ENABLE = yes
